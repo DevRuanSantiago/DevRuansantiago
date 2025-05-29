@@ -19,11 +19,11 @@ Me chamo Ruan gonçalves , tenho 24 anos e sou natural De Minas gerais l. Conclu
             src="https://custom-icon-badges.demolab.com/github/followers/DevRuanSantiago?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/ruan-gonçalves/" target="_blank">
+  <a href="https://www.linkedin.com/in/ruan-santiago/" target="_blank">
     <img 
         alt="LinkedIn" 
-        title="Conecte-se comigo no LinkedIn" 
-        src="https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        title="Me adicione no LinkedIn" 
+        src="https://img.shields.io/badge/LinkedIn-Me%20adicione-blue?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a>
 </p>
