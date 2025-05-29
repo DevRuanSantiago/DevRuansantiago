@@ -56,14 +56,16 @@ Me chamo Ruan gonçalves , tenho 24 anos e sou natural De Minas gerais l. Conclu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
+<img
+ align="left" 
     alt="Node.js"
     title="Node" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Node.js/Node.js-original.svg" 
-/>
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="40" height="40"
+    />
+
+
 <img 
     align="left" 
     alt="React"
