@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ruan gonçalves , tenho 24 anos e sou natural De Minas gerais l. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Sistemas de informação na UFJF. Sou apaixonado por tecnologia e compartilho meu conhecimento com meus pares
+Me chamo Ruan gonçalves , tenho 24 anos e sou natural De Minas gerais l. Concluí o ensino médio Atualmente, estou cursando Sistemas de informação na UFJF. Sou apaixonado por tecnologia e compartilho meu conhecimento com meus pares
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
