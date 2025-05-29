@@ -62,7 +62,7 @@ Me chamo Ruan gonçalves , tenho 24 anos e sou natural De Minas gerais l. Conclu
     title="Node" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Node/Node-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Node.js/Node.js-original.svg" 
 />
 <img 
     align="left" 
